@@ -1,0 +1,2 @@
+{"category":"Shopping","amount":3000,"date":"11-11-2024"}
+{"category":"Water","amount":3000,"date":"11-11-2024"}
